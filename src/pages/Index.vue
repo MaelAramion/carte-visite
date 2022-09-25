@@ -49,7 +49,7 @@ body{
   background-position: center;
   background-size: cover;
   border-radius: 150px;
-  box-shadow: 10px -10px #e1b12c;
+  box-shadow: 7px 5px #2f3640;
 }
 .carte{
   position: absolute;
@@ -61,7 +61,7 @@ body{
   padding: 15px 100px;
   border-radius: 10px;
   z-index: 999;
-  box-shadow: 10px 10px #e1b12c;
+  box-shadow: 10px 10px 45px #e1b12c;
 }
 h1{
   text-align: center;
