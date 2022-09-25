@@ -8,6 +8,12 @@
         <div class="link-container">
           <ul>
             <li>
+              <a href="https://github.com/MaelAramion/carte-visite.git" target="_blank">
+                <i class="bi bi-telephone"></i>
+                76.86.57
+              </a>
+            </li>
+            <li>
               <a href="mailto:mael.aramio@gmail.com">
                 <i class="bi bi-envelope"></i>
                 mael.aramion@gmail.com
