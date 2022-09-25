@@ -6,7 +6,10 @@
         <div class="img"></div>
         <p>Licence professionnelle MIAW, Web Developper</p>
         <div class="link-container">
-          <a href="mailto:mael.aramio@gmail.com">mael.aramion@gmail.com</a>
+          <a href="mailto:mael.aramio@gmail.com">
+            <i class="bi bi-envelope"></i>
+            mael.aramion@gmail.com
+          </a>
         </div>
     </div>
   </Layout>
@@ -46,6 +49,7 @@ body{
   background-position: center;
   background-size: cover;
   border-radius: 150px;
+  box-shadow: 10px -10px #e1b12c;
 }
 .carte{
   position: absolute;
@@ -53,10 +57,11 @@ body{
   left: 50%;
   transform: translate(-50%,-50%);
   border: 2px solid #fbc531;
+  background: #353b48;
   padding: 15px 100px;
   border-radius: 10px;
   z-index: 999;
-  box-shadow: 10px 10px;
+  box-shadow: 10px 10px #e1b12c;
 }
 h1{
   text-align: center;
