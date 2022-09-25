@@ -14,8 +14,15 @@
 
 <script>
 export default {
+  icon: './src/favicon.png',
   metaInfo: {
-    title: 'Maël Aramion'
+    title: 'Maël Aramion',
+    meta: [
+      {
+        name: 'Maël Aramion',
+        content: 'Carte de visite'
+      }
+    ]
   }
 }
 </script>
