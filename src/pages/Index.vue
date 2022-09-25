@@ -4,7 +4,7 @@
     <div class="carte">
         <h1>Maël Aramion</h1>
         <div class="img"></div>
-        <p>Licence professionnelle MIAW, Web Developper</p>
+        <p>Licence professionnelle MIAW - Web Developper <br/>   Alternance à Skazy</p>
         <div class="link-container">
           <ul>
             <li>
@@ -106,12 +106,12 @@ a{
   text-decoration: none;
   text-align: center;
   margin: auto;
-  border: 1px solid #7f8fa6;
+  outline: 1px solid #7f8fa6;
   padding: 5px 20px;
   border-radius: 8px;
 }
 a:hover{
-  border: none;
+  outline: none;
   color: #353b48;
   transition: 0.5s all;
   background: #e1b12c;
