@@ -8,7 +8,7 @@
         <div class="link-container">
           <ul>
             <li>
-              <a href="https://github.com/MaelAramion/carte-visite.git" target="_blank">
+              <a>
                 <i class="bi bi-telephone"></i>
                 76.86.57
               </a>
